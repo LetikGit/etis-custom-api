@@ -105,9 +105,12 @@ fetch("http://localhost:3000/api/account", requestOptions)
 
 ```xvfb-run node --harmony app.js```
 
+Так же ещё отлично подойдет [Heroku](https://www.heroku.com/) для быстрого и бесплатного старта проекта.
+
 ### Планы на будущее
 
 - [ ] Тесты
 - [ ] Error Handling
 - [ ] Дополнительные методы
+- [ ] Быстрый старт с Heroku + morgan + pm2
 - [ ] Написать еще планов
