@@ -112,5 +112,6 @@ fetch("http://localhost:3000/api/account", requestOptions)
 - [ ] Тесты
 - [ ] Error Handling
 - [ ] Дополнительные методы
+- [ ] Вынести селекторы в отдельный файл
 - [ ] Быстрый старт с Heroku + morgan + pm2
 - [ ] Написать еще планов
