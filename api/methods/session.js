@@ -1,4 +1,4 @@
-const login = require('../../login')
+const login = require('../../utils/login.js')
 
 /**
   * Логинимся в ЕТИС и получаем сессию

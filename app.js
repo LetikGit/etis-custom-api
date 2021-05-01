@@ -6,7 +6,7 @@ const PORT = 3000
 
 app.use(express.json())
 
-app.get('/api/session', API.login)
+app.get('/api/login', API.login)
 app.get('/api/account', API.account)
 app.get('/api/marksByTrim/:trim', API.marksByTrim)
 app.get('/api/teachers', API.teachers)
