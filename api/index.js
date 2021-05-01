@@ -1,0 +1,7 @@
+exports.login = require('./methods/session')
+exports.account = require('./methods/account')
+exports.marksByTrim = require('./methods/marksByTrim')
+exports.teachers = require('./methods/teachers')
+exports.sessionMarks = require('./methods/sessionMarks')
+exports.schedule = require('./methods/schedule')
+exports.scheduleByWeek = require('./methods/scheduleByWeek')
